@@ -6,3 +6,5 @@ Here IMdB website was used to scrape the data points for a movie using Python us
 The codes for the data collection were attached in this repository. 
 
 The results from the collected data were cleaned in excel, python and insights and interactive visualization with modules like Pandas, Matplotlib, NLTK are prepared in jupyter notebook- named"Project- IMdB_4070_.
+
+Note:This collected data is from 1900 to 2023 April
